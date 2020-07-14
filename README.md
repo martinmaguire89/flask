@@ -1,7 +1,3 @@
 # Code Institute
 
-Welcome martinmaguire89,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+You can view the website here https://thorin-and-company-14012020.herokuapp.com/
